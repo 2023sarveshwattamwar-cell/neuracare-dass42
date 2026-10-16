@@ -1,5 +1,7 @@
 # NeuraCare: Curated & Annotated DASS-42 Benchmark Dataset
 
+[![ODI Open Data Certificate](https://certificates.theodi.org/datasets/6ad250fbb830b6ee9ba3991e/certificates/6ad251b9b830b6ee9ba39932/badge.png)](https://certificates.theodi.org/datasets/6ad250fbb830b6ee9ba3991e/certificates/6ad251b9b830b6ee9ba39932)
+
 ## Overview
 This repository hosts a quality-filtered, normalized, and clinically annotated benchmark dataset (`N = 34,576`) derived from the Depression Anxiety Stress Scales (DASS-42). It was curated to train and evaluate multi-output machine learning classification pipelines for the **NeuraCare** mental health decision-support system.
 
